@@ -1,7 +1,0 @@
-s=input("sentence: ")
-print(s.upper())
-print(s.lower())
-#print(s.replace(" ", "_"))
-s=s.replace(" ", "_" )
-print(s)
-print(s.strip())
